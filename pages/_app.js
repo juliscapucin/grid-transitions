@@ -1,4 +1,3 @@
-// import { AnimatePresence } from "framer-motion";
 import { useRouter } from "next/router";
 
 import "../styles/index.scss";
